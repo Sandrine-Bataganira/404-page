@@ -1,0 +1,38 @@
+section {
+    display: inline-block;
+    position: relative;
+    height: 100%;
+    
+    
+     
+}
+p{
+    background:transparent;
+    text-shadow: 2px 2px 5px whitesmoke;
+    opacity: 0,5;
+    z-index: 1;
+    position: absolute;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    top: 40%;
+    
+    width: 100%;
+    font-size: 150%;
+}
+.button {
+    background-color:black
+         border: none;
+         color: white;
+         padding: 20px 34px;
+         text-align: center;
+         text-decoration: none;
+         display: inline-block;
+         font-size: 20px;
+         margin: 4px 2px;
+         cursor: pointer;
+         }
+
+}
